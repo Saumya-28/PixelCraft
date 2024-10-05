@@ -4,7 +4,6 @@ This is a Flutter app that utilizes the [Pexels API](https://www.pexels.com/api/
  
 ## Table of Contents
 - [Features](#features)
-- [Screenshots](#screenshots)
 - [Installation](#installation)
 - [Usage](#usage)
 - [Pexels API](#pexels-api)
