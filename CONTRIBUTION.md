@@ -1,5 +1,4 @@
 Contribution Guidelines
-
 Thank you for considering contributing to our Flutter project that fetches and displays images from the Pexels API! We welcome contributions from everyone, especially during Hacktoberfest 2024. To maintain quality and streamline the collaboration process, please follow the guidelines below.
 
 1. Project Setup Instructions
@@ -114,6 +113,4 @@ This project is participating in Hacktoberfest 2024, and contributions are welco
 Focus on quality: Only high-quality pull requests and meaningful contributions will be accepted.
 Adhere to Hacktoberfest rules: Follow the guidelines on Hacktoberfest to ensure your contributions are counted.
 Avoid spam: Any spammy or low-quality pull requests will be rejected and marked accordingly.
-
-
 We appreciate your contributions to this project and look forward to collaborating with you. Happy coding!
