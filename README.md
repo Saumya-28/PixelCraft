@@ -1,6 +1,12 @@
 # PixelCraft
  
 This is a Flutter app that utilizes the [Pexels API](https://www.pexels.com/api/) to fetch photos and display them on the screen. This project is part of **Hacktoberfest 2024** and is open to contributions from the community.
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/61840639-e13f-414f-a6ba-11cbae4feaaf" width="800" height="400" alt="Email Banner">
+</p>
+
+
+
  
 ## Table of Contents
 - [Features](#features)
